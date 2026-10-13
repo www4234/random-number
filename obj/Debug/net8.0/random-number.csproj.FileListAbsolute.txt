@@ -1,0 +1,14 @@
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.AssemblyInfoInputs.cache
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.AssemblyInfo.cs
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.csproj.CoreCompileInputs.cache
+/home/cesium/projects/random-number/bin/Debug/net8.0/random-number
+/home/cesium/projects/random-number/bin/Debug/net8.0/random-number.deps.json
+/home/cesium/projects/random-number/bin/Debug/net8.0/random-number.runtimeconfig.json
+/home/cesium/projects/random-number/bin/Debug/net8.0/random-number.dll
+/home/cesium/projects/random-number/bin/Debug/net8.0/random-number.pdb
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.dll
+/home/cesium/projects/random-number/obj/Debug/net8.0/refint/random-number.dll
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.pdb
+/home/cesium/projects/random-number/obj/Debug/net8.0/random-number.genruntimeconfig.cache
+/home/cesium/projects/random-number/obj/Debug/net8.0/ref/random-number.dll
